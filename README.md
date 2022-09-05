@@ -3,7 +3,7 @@ Repository for the web scraper part of our main repository. See https://github.c
 
 Utility scripts to collect the words for our wordle game.
 
-```scraper.py``` simply runs the webscraper and collects all words, needs parameters ```--min``` and ```--max``` to specify the allowed word length, i.e. run ```python scraper.py --min 4 --max 6``` to download all words with length of [4:6]. Words are stored under ````/cache```.
+```scraper.py``` simply runs the webscraper and collects all words, needs parameters ```--min``` and ```--max``` to specify the allowed word length, i.e. run ```python scraper.py --min 4 --max 6``` to download all words with length of [4:6]. Words are stored under ```/cache```.
 
 ```prepper.py``` simply converts the words into a format which can than be red by our main application.
 
