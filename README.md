@@ -13,6 +13,8 @@ A curated list of bussines words ```bussines_.json``` is provided and used by ``
 
 Python 3.10+ is required. To install simply run the following commands in the project root open.
 
+```
 python -m venv venv
 ./venv/Scripts/Activate.ps1
 python -m pip install -r requirements.txt
+```
