@@ -11,7 +11,7 @@ A curated list of bussines words ```bussines_.json``` is provided and used by ``
 
 # install
 
-Python 3.10+ is required. To install simply run the following commands in the project root open.
+Python 3.10+ is required. To install simply run the following commands in the project root.
 
 ```
 python -m venv venv
